@@ -1,0 +1,29 @@
+.liP {
+  font-size: 14px;
+  color: #9aa5b1;
+}
+.liH1 {
+  color: #52606d;
+  font-size: 25px;
+}
+hr {
+  color: #d7dae6;
+}
+.liItem {
+  border: 1px solid #d7dae6;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.qDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.plusButton {
+  background-color: transparent;
+  border-width: 0;
+  padding: 0;
+  cursor: pointer;
+}

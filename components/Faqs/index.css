@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+.mainDiv {
+  background-color: #f1f5f8;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 6vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inDiv {
+  background-color: #ffffff;
+  width: 80vw;
+  min-height: 80vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  padding-top: 50px;
+}
+h1 {
+  color: #cb8805;
+  font-size: 50px;
+  text-align: center;
+}
+.ulDiv {
+  list-style-type: none;
+}
